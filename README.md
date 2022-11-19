@@ -8,6 +8,6 @@ GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing <br>
   year={2022}}<br>
 
 # Related works
-EGFNet:https://github.com/ShaohuaDong2021/EGFNet
-MTANet:https://github.com/ShaohuaDong2021/MTANet
+EGFNet:https://github.com/ShaohuaDong2021/EGFNet <br>
+MTANet:https://github.com/ShaohuaDong2021/MTANet <br>
 More related work in our Lab can be found at https://wujiezhou.github.io
