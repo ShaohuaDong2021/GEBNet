@@ -1,7 +1,6 @@
 # GEBNet
 GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing <br>
 
-![图片](https://file:///C:/Users/admin/Pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221119104704.png)
 
 # Citation
 @ARTICLE{<br>
