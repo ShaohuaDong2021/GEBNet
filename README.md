@@ -1,6 +1,6 @@
 # GEBNet
 GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing <br>
-
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937048)
 
 # Citation
 @ARTICLE{<br>
